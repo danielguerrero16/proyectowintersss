@@ -1,0 +1,119 @@
+.JEFE1{
+
+position: relative;
+background: red;
+width: 1200px;
+height: 2600px;
+background: url(../img/backgroundpeter.png);
+background-position: repeat;
+background-size: 10%;
+
+}
+
+.BOX1 {
+	position: absolute;
+	top:1700px;
+	left: 420px;
+	list-style:none;
+	font-size: 50px;
+
+	}
+
+.CONTENEDOR {
+
+	position: absolute;
+}
+
+.h1{
+
+position: absolute;
+left: 180px;
+color: #ffffff;
+font-size: 100px;
+justify-content: center;
+font font-weight: bolder;
+
+}
+
+.PETERTEXT{
+
+position: absolute;
+left: 240px;
+top: 200px;
+color: yellow;
+justify-content: center;
+font-family: Comic Sans MS;
+font-size: 40px;
+
+
+}
+
+.PETER{
+	position: absolute;
+	width: 402px;
+	height: 517px;
+	top:320px;
+	left: 390px;
+	background: url(../img/petwhite.jpeg);
+	background-size: 410px;
+	background-repeat: no-repeat;
+	border: 15px solid yellow;
+}
+
+.box1 {
+
+	position: absolute;
+	display: inline-block;
+	width: 200px;
+	height: 300px;
+	left: 180px;
+	top: 920px;
+	border: 10px solid yellow;
+}
+
+.box2 {
+
+	position: absolute;
+	display: inline-block;
+	width: 200px;
+	height: 300px;
+	left: 520px;
+	top: 920px;
+	border: 10px solid yellow;
+}
+
+.box3 {
+
+	position: absolute;
+	display: inline-block;
+	width: 200px;
+	height: 300px;
+	left: 870px;
+	top: 920px;
+	border: 10px solid yellow;
+}
+
+.box4{
+
+	position: absolute;
+	width: 900px;
+	height: 500px;
+	left: 180px;
+	top: 1250px;
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	color: #ffffff;
+
+}
+
+.PETA{
+
+position: absolute;
+left: 240px;
+top: 1550px;
+color: yellow;
+justify-content: center;
+font-family: Comic Sans MS;
+font-size: 50px;
+
+}
